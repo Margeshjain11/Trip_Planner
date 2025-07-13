@@ -24,5 +24,4 @@ print(shutil.which("uv"))'''
 '''uv venv env --python cpython-3.10.18-windows-x86_64-none'''
 
 #Use this command from your virtual env
-'''c:\users\sunny\AI_Trip_Planner\env\Scripts\activate.bat'''
-
+'''C:\Users\jainm\PycharmProjects\Project\New Folder\Trip_Planner\.venv\Scripts\activate.bat'''
