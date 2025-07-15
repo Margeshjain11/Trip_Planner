@@ -29,7 +29,7 @@ class ConfigLoader:
         load and return the LLm model.
         :return:
         """
-        print ("LLM loading...")
+        print ("LLM loading.......")
         print(f"Loading model from provider: {self.model_provider}")
         if self .model_provider == "groq":
             print("Loading LLM from Groq........")

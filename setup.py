@@ -27,7 +27,7 @@ def get_requirements()->List[str]:
     return requirement_list
 print(get_requirements())
 setup(
-    name ="Ai-Trave-Planner",
+    name ="Ai-Travel-Planner",
     version ="0.0.1",
     author="Margesh jain",
     author_email="jainmargesh@gmail.com",
